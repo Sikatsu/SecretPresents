@@ -1,0 +1,16 @@
+Textures:
+  - 'http://textures.minecraft.net/texture/f0afa4fffd10863e76c698da2c9c9e799bcf9ab9aa37d8312881734225d3ca'
+Commands:
+  - 'supertrails event addchests !player! 5'
+firework:
+  color:
+    red: 255
+    green: 0
+    blue: 0
+particleNotFound: VILLAGER_HAPPY
+particleFound: REDSTONE
+foundSound: ENTITY_VILLAGER_YES
+foundFirstSound: ENTITY_EXPERIENCE_ORB_PICKUP
+foundAllSound: ENTITY_PLAYER_LEVELUP
+DisplayParticleRange: 15
+SpawnParticleRange: 0.3
